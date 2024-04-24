@@ -1,2 +1,4 @@
 # Orange
-A website to watch the anime- ORANGE, I made the website when i was highly influenced by another anime watching website and Orange used to be my favorite anime at that time. Hope you all like it!!
+A website that explains and demonstrates about the Parallax Effect. You've got the source code and a pretty demonstration, so feel free to use it for yourself. Hope you all like it!!
+
+# Parallax scrolling is a web site where the trend background content is moved at a different speed than the foreground content while scrolling.
