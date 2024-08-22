@@ -12,7 +12,7 @@ html,body{
 #content1{
     width: 100%;
     height: 100%;
-    background-image: url("meme.jpg");
+    background-image: url("https://www.google.com/imgres?q=photos%20wallpaper&imgurl=https%3A%2F%2Fimg.freepik.com%2Ffree-photo%2Fpainting-mountain-lake-with-mountain-background_188544-9126.jpg%3Fsize%3D626%26ext%3Djpg%26ga%3DGA1.1.2008272138.1724198400%26semt%3Dais_hybrid&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Fphotos%2Fhd-wallpaper&docid=9t1pAxjW0JlWkM&tbnid=ASMDFNsL7Vw1YM&vet=12ahUKEwikgPal1YeIAxXuUGwGHfs0AOIQM3oECE4QAA..i&w=626&h=358&hcb=2&ved=2ahUKEwikgPal1YeIAxXuUGwGHfs0AOIQM3oECE4QAA");
     background-repeat: no-repeat;
     display: flex;
     align-items: center;
@@ -51,7 +51,7 @@ html,body{
 #content3{
     width: 100%;
     height: 50%;
-    background-image: url("me.jpg");
+    background-image: url("https://www.google.com/imgres?q=photos%20wallpaper&imgurl=https%3A%2F%2Fwallpapers.com%2Fimages%2Fhd%2F1080x1920-ugd930ckdcujq44s.jpg&imgrefurl=https%3A%2F%2Fwallpapers.com%2F1080x1920&docid=y-Q2kN8uiQ6qVM&tbnid=7ZmH3_7kqVw8_M&vet=12ahUKEwikgPal1YeIAxXuUGwGHfs0AOIQM3oFCIIBEAA..i&w=1080&h=1920&hcb=2&ved=2ahUKEwikgPal1YeIAxXuUGwGHfs0AOIQM3oFCIIBEAA");
     background-repeat: no-repeat;
     display: flex;
     align-items: center;
@@ -105,7 +105,7 @@ html,body{
     color: rgb(187, 187, 187);
 }
 #content6{
-    background-image: url("meme.jpg");
+    background-image: url("https://www.google.com/imgres?q=photos%20wallpaper&imgurl=https%3A%2F%2Fimg.freepik.com%2Ffree-photo%2Fpainting-mountain-lake-with-mountain-background_188544-9126.jpg%3Fsize%3D626%26ext%3Djpg%26ga%3DGA1.1.2008272138.1724198400%26semt%3Dais_hybrid&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Fphotos%2Fhd-wallpaper&docid=9t1pAxjW0JlWkM&tbnid=ASMDFNsL7Vw1YM&vet=12ahUKEwikgPal1YeIAxXuUGwGHfs0AOIQM3oECE4QAA..i&w=626&h=358&hcb=2&ved=2ahUKEwikgPal1YeIAxXuUGwGHfs0AOIQM3oECE4QAA");
     width: 100%;
     height: 100%;
     background-repeat: no-repeat;
